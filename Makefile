@@ -5,7 +5,7 @@
 ## Makefile
 ##
 
-NAME	= serverJ2T3
+NAME	= server
 
 CC	= gcc
 
